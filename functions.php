@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Mai Twenty Seven theme.
  *
