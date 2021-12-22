@@ -27,41 +27,42 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-develop',
+    'version' => 'dev-develop',
     'aliases' => 
     array (
     ),
-    'reference' => '1b36f336bb77a3c2ffe510228c15e655dedbca11',
-    'name' => 'maithemewp/mai-twenty-seven',
+    'reference' => 'bbd34ee4290fca0f0bdc4ce352a3e53850cba2be',
+    'name' => 'maithemewp/mai-installer',
   ),
   'versions' => 
   array (
     'afragen/wp-dependency-installer' => 
     array (
-      'replaced' => 
+      'pretty_version' => '4.2.3',
+      'version' => '4.2.3.0',
+      'aliases' => 
       array (
-        0 => '*',
       ),
+      'reference' => '68aa4bfabfe0e807c7cf370580d0254b7b25c4f7',
+    ),
+    'afragen/wp-dismiss-notice' => 
+    array (
+      'pretty_version' => '0.2.3',
+      'version' => '0.2.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '21949732f1ea21d81500bdda8f882ac7eb0f98af',
     ),
     'maithemewp/mai-installer' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
-      'aliases' => 
-      array (
-        0 => '9999999-dev',
-      ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
-    ),
-    'maithemewp/mai-twenty-seven' => 
-    array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-develop',
+      'version' => 'dev-develop',
       'aliases' => 
       array (
       ),
-      'reference' => '1b36f336bb77a3c2ffe510228c15e655dedbca11',
+      'reference' => 'bbd34ee4290fca0f0bdc4ce352a3e53850cba2be',
     ),
   ),
 );
