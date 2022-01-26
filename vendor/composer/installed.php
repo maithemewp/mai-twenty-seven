@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '1b36f336bb77a3c2ffe510228c15e655dedbca11',
+    'reference' => 'fe0537a85bb45adb0dbc229c7361ebf9c9fcc7b4',
     'name' => 'maithemewp/mai-twenty-seven',
   ),
   'versions' => 
@@ -26,7 +26,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
+      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
     ),
     'maithemewp/mai-twenty-seven' => 
     array (
@@ -35,7 +35,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '1b36f336bb77a3c2ffe510228c15e655dedbca11',
+      'reference' => 'fe0537a85bb45adb0dbc229c7361ebf9c9fcc7b4',
     ),
   ),
 );
