@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'fe0537a85bb45adb0dbc229c7361ebf9c9fcc7b4',
+    'reference' => '49e364ceb7139b178d31800ae648dcf04c33aec1',
     'name' => 'maithemewp/mai-twenty-seven',
   ),
   'versions' => 
@@ -52,7 +52,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
     'maithemewp/mai-twenty-seven' => 
     array (
@@ -61,7 +61,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'fe0537a85bb45adb0dbc229c7361ebf9c9fcc7b4',
+      'reference' => '49e364ceb7139b178d31800ae648dcf04c33aec1',
     ),
   ),
 );
